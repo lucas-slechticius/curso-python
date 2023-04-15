@@ -1,4 +1,0 @@
-Começo do curso
-
-
-- Google Colab
