@@ -1,5 +1,5 @@
-x = "pica de mel"
-y = "mano changes"
+x = "Teste"
+y = "Teste 2"
 
 print(x,y)
 
